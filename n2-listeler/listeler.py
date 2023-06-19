@@ -142,5 +142,3 @@ marka= input("marka giriniz: ")
 markalar.append(marka)
 print(markalar)
 
-
-
