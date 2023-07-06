@@ -11,3 +11,4 @@ for index, string in enumerate(strr):
         bos_str += string.upper()
 
 print(bos_str)
+
